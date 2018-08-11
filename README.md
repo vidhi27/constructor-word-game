@@ -1,6 +1,6 @@
-# constructor-word-game
+# Constructor-Word-Game
 
-1.Game Information: This is a node.js based application with interactive prompts on the command-line. Test your knowledge of the Canadian Cities. Good luck and enjoy the game!
+1.**Game Information:** This is a node.js based application with interactive prompts on the command-line. Test your knowledge of the Canadian Cities. Good luck and enjoy the game!
 
 * The game requires `inquirer` or `prompt` npm packages.
 
